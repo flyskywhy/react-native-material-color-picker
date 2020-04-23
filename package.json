@@ -1,0 +1,45 @@
+{
+  "name": "react-native-material-color-picker",
+  "version": "1.0.0",
+  "description": "A color picker on Google material color palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prop-types": "^15.5.10",
+    "react-native-material-color": "1.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-material-color-picker.git"
+  },
+  "keywords": [
+    "android",
+    "color",
+    "color-picker",
+    "colour",
+    "ios",
+    "material",
+    "palette",
+    "react-native",
+    "rgb"
+  ],
+  "author": "Li Zheng",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://Alipay/flyskywhy@gmail.com"
+    },
+    {
+      "type": "individual",
+      "url": "https://EthAddress/0xd02fa2738dcbba988904b5a9ef123f7a957dbb3e"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-material-color-picker/issues"
+  },
+  "homepage": "https://github.com/flyskywhy/react-native-material-color-picker#readme"
+}
